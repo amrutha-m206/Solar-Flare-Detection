@@ -19,3 +19,12 @@ You can download the dataset from the following link and change the path in the 
 
 ## **Model**
 A Convolutional Neural Network (CNN) was used to train the model for flare detection.
+
+## **Post-Analysis**
+The project also includes a detailed post-analysis of the model's performance, covering:
+- **Accuracy**
+- **Precision**
+- **Recall**
+- **Confusion Matrix**
+- **Area Under the Curve (AUC)**
+These metrics were used to evaluate and fine-tune the model for better performance.
